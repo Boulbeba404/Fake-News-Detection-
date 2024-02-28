@@ -1,29 +1,33 @@
-tensorflow               # Core library for neural networks and deep learning
-pandas                   # Data manipulation and analysis
-dvc                      # Data version control for ML projects
-mlflow                   # Experiment tracking and model management
-notebook                 # For creating and sharing documents with live code
-numpy                    # Fundamental package for scientific computing
-matplotlib               # Plotting library for creating static, animated, and interactive visualizations
-seaborn                  # Statistical data visualization based on matplotlib
-python-box               # For easy dictionary access
-pyYAML                   # YAML parser and emitter for Python
-tqdm                     # Fast, extensible progress bar for loops and command-line programs
-ensure                   # Utility for package and environment management
-joblib                   # Lightweight pipelining: save and load Python objects
-types-PyYAML             # Type stubs for PyYAML
-scipy                    # Scientific computing and technical computing
-Flask                    # Web framework for building web applications
-Flask-Cors               # Handling Cross Origin Resource Sharing (CORS), making cross-origin AJAX possible
-gdown                    # File download utility for Google Drive
-transformers             # For utilizing pre-trained models and tokenizers for NLP tasks
-gensim                   # For word embeddings and text preprocessing
-scikit-learn             # Machine learning library for Python
-beautifulsoup4           # For HTML and XML parsing, if web scraping is part of your data gathering
-requests                 # For making HTTP requests, if needed for API interactions or web scraping
-nltk                     # For natural language processing tasks like tokenization, stopwords removal
-spacy                    # For advanced NLP processing, including lemmatization and entity recognition
-
-huggingface-hub          # To easily access models and utilities from Hugging Face, supporting various transformers
-textblob                 # For basic NLP tasks and sentiment analysis, provides a simple API
-keras                    # High-level neural networks API, running on top of TensorFlow
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+torch
+torchvision
+transformers
+tokenizers
+nltk
+spacy
+gensim
+jupyter
+pytest
+flake8
+black
+dvc
+mlflow
+tensorflow
+keras
+python-box
+pyYAML
+tqdm
+joblib
+types-PyYAML
+scipy
+Flask
+Flask-Cors
+gdown
+beautifulsoup4
+requests
+huggingface-hub
+textblob
